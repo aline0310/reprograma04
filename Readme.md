@@ -11,7 +11,7 @@
    
 
     Em segundo lugar, nada de codar com acentuação! Não são boas práticas, e vai dar ruim de novo :🤦‍♀️😂
-    </p3>
+  
     
    
     Gostei mais da forma como podemos declarar, me pareceu visualmente mais amigável aos 👀
